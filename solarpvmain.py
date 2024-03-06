@@ -23,7 +23,7 @@ filepath = '/content/Plant_1_Generation_Data.csv' #load the filepath from the fi
 df = pd.read_csv(filepath)
 
 # printing the first few rows of the csv file to identify the features
-print(df.head(-50))
+print(df.head(50))
 
 #assigning net current to total yeild column of the csv dataset
 net_current = df["TOTAL_YIELD"]
