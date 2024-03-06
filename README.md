@@ -2,10 +2,10 @@
 
 Built and developed by Angshuman Talukdar, *Machine Learning Engineer* at Meta Open-Source, Llama 2 and Jellyfish GPT
 
-**Model Details**
+# **Model Details**
 Platform : Google Collab
 Framework : TensorFlow Keras
 Libraries : NumPy, Pandas, Keras, Scikit-learn
 
-**Training Dataset**
+# **Training Dataset**
 CSV dataset obtained from Kaggle
