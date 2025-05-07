@@ -1,6 +1,6 @@
-# **Output Forecast of Solar PV with Machine Learning**
+# **Machine Learning and XGBoost for Solar Power Generation Forecast**
 
-Built and developed by Angshuman Talukdar, *Machine Learning Engineer* at Meta Open-Source, Llama 2 and Jellyfish GPT
+Developer: Angshuman Talukdar, *Machine Learning Engineer* 
 
 **Model Details** <br>
 Platform : Google Collab <br>
